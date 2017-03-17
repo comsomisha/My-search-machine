@@ -1,6 +1,7 @@
 https://ru.wikipedia.org  
 Один из самых полезных сайтов в Интернете
-https://ru.wikipedia.org/wiki/Проект:Телевидение/Списки
+https://ru.wikipedia.org/wiki/Категория:Проект:Телевидение:Списки
+(https://ru.wikipedia.org/wiki/Проект:Телевидение/Списки)
 https://ru.wikipedia.org/wiki/Категория:Списки_программ_по_телеканалам
 Списки телевизионных программ в Википедии
 http://staroetv.su/publ/
