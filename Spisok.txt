@@ -9,3 +9,5 @@ http://staroetv.su/video/
 Старый и новый телеархивы сайта Старый Телевизор
 https://emercoin.mintr.org/nvs
 Домены Emercoin
+https://www.opennic.org
+OpenNIC, альтернативный DNS
