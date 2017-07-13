@@ -11,3 +11,5 @@ https://emercoin.mintr.org/nvs
 Домены Emercoin
 https://www.opennic.org
 OpenNIC, альтернативный DNS
+http://osgameclones.com
+Модификации (open source) известных игр
