@@ -25,4 +25,4 @@ https://new-retail.ru/personal/kak_voruyut_kassiry_skhemy_moshennichestva_v_maga
 https://magazeta.com/2016/01/china-exams-gaokao/
 Гаокао, китайский ЕГЭ
 https://dtf.ru/7062-sozdatelyam-zashchity-denuvo-prigrozili-sudom-za-ispolzovanie-piratskogo-softa
-Denuvo использует VMPROTECT
+Denuvo использует VMProtect
