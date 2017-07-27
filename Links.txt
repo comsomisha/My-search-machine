@@ -34,3 +34,5 @@ https://lifehacker.ru/2016/03/28/google-alternatives/
 Альтернативные поисковые системы
 http://www.hi-fi.ru/forum/forum96/topic52389/
 Техника СССР лучше японской
+https://habrahabr.ru/post/266667/
+Подключение к GIT по SSH
