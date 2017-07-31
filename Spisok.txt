@@ -19,3 +19,5 @@ http://www.mmnt.ru
 FTP-поисковик
 https://duckduckgo.com
 Альтернатива Яндексу
+https://www.litres.ru/kollekcii-knig/besplatnie-knigi
+Бесплатные книги от Litres
