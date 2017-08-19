@@ -41,4 +41,6 @@ http://www.avto25.ru/news/articles/2017/07/28/35718.html
 https://cont.ws/@maevec/385153
 О положении абортов в СССР
 https://git-scm.com/book/ru/v1/Основы-Git-Работа-с-удалёнными-репозиториями
-Полезная информация о git
+Полезная информация о GIT
+https://www.vedomosti.ru/business/articles/2010/03/01/razorilas-krupnaya-regionalnaya-roznichnaya-set
+Закрытие сети Провиант
