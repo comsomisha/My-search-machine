@@ -44,3 +44,5 @@ https://git-scm.com/book/ru/v1/Основы-Git-Работа-с-удалённы
 Полезная информация о GIT
 https://www.vedomosti.ru/business/articles/2010/03/01/razorilas-krupnaya-regionalnaya-roznichnaya-set
 Закрытие сети Провиант
+http://www.ixbt.com/soft/ipv6.shtml
+Про IPv6
