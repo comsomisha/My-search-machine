@@ -45,10 +45,12 @@ https://git-scm.com/book/ru/v1/Основы-Git-Работа-с-удалённы
 https://www.vedomosti.ru/business/articles/2010/03/01/razorilas-krupnaya-regionalnaya-roznichnaya-set
 Закрытие сети Провиант
 http://www.ixbt.com/soft/ipv6.shtml
-Про IPv6
+Про настройку IPv6
 https://www.sports.ru/tribuna/blogs/zhaglagdonks/1139497.html
 5 спортивных медиа на Sports.ru
 https://cont.ws/@anddan01/704149
 12 мифов о капитализме
 http://www.banki.ru/news/daytheme/?id=8905506
 История российских санаций
+https://riavrn.ru/news/umnye-svetofory-protiv-zelenoy-volny-zachem-voronezhu-novaya-sistema-upravleniya-dvizheniem/
+Интересная статья про умные светофоры
