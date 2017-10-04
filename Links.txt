@@ -60,3 +60,5 @@ https://www.vedomosti.ru/technology/articles/2015/08/18/605173-u-mts-nashlas-svy
 Связь К-телекома и МТС 
 https://gomel.today/rus/article/economics-232/
 Беспошлинные лимиты в странах
+http://4tux.ru/blog/linux_analogi_windows_programm
+Linux-аналоги Windows-программ
