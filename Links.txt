@@ -62,3 +62,5 @@ https://gomel.today/rus/article/economics-232/
 Беспошлинные лимиты в странах
 http://4tux.ru/blog/linux_analogi_windows_programm
 Linux-аналоги Windows-программ
+https://www.itweek.ru/business/blog/foss/9301.php?commentId=40724
+Отказ от 32-разрядных сборок (потом - Ubuntu)
