@@ -64,3 +64,5 @@ http://4tux.ru/blog/linux_analogi_windows_programm
 Linux-аналоги Windows-программ
 https://www.itweek.ru/business/blog/foss/9301.php?commentId=40724
 Отказ от 32-разрядных сборок (потом - Ubuntu)
+http://glagolurfo.com/newsitems/2015/3/2/zummer-voshel-v-10-magistralnyh-provajderov-rf/
+Магистральные провайдеры России
