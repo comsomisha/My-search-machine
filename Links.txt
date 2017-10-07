@@ -59,10 +59,12 @@ http://www.motiv-telecom.com/2016/03/blog-post.html
 https://www.vedomosti.ru/technology/articles/2015/08/18/605173-u-mts-nashlas-svyaz-s-pervim-sotovim-operatorom-krima
 Связь К-телекома и МТС 
 https://gomel.today/rus/article/economics-232/
-Беспошлинные лимиты в странах
+Беспошлинные лимиты в странах (на момент 2016 года)
 http://4tux.ru/blog/linux_analogi_windows_programm
 Linux-аналоги Windows-программ
 https://www.itweek.ru/business/blog/foss/9301.php?commentId=40724
 Отказ от 32-разрядных сборок (потом - Ubuntu)
 http://glagolurfo.com/newsitems/2015/3/2/zummer-voshel-v-10-magistralnyh-provajderov-rf/
 Магистральные провайдеры России
+https://www.kommersant.ru/doc/1827909?stamp=634590218470249111
+Про кодекс Хейса
