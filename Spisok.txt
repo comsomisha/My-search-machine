@@ -1,11 +1,9 @@
-https://ru.wikipedia.org  
-Один из самых полезных сайтов в Интернете
 https://ru.wikipedia.org/wiki/Категория:Проект:Телевидение:Списки
 (https://ru.wikipedia.org/wiki/Проект:Телевидение/Списки)
 https://ru.wikipedia.org/wiki/Категория:Списки_программ_по_телеканалам
 https://ru.wikipedia.org/wiki/Категория:Исчезли_в_2010-е_годы
 https://ru.wikipedia.org/wiki/2017_год
-Важные ссылки в Википедии
+Важные ссылки в Википедии, очень значимой библиотеке
 https://ru.wikipedia.org/wiki/Шаблон:Российские_мужские_журналы
 https://ru.wikipedia.org/wiki/Шаблон:Gameland
 Под угрозой удаления в Википедии
@@ -44,3 +42,7 @@ https://alternativeto.net/
 Поиск альтернатив для ПО
 https://gorky.media/
 Сайт о литературе
+https://gamer-info.com/
+Сайт о компьютерных играх
+https://www.old-games.ru/
+Архив старых компьютерных игр
