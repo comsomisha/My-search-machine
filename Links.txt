@@ -80,3 +80,5 @@ http://www.wikireality.ru/wiki/P2p
 Про пиринговые сети
 http://www.sovross.ru/articles/1520/30856
 Про безналичные деньги
+http://web.archive.org/web/20071029192758/http://oberon2005.ru/paper/borland.pdf
+Архивная статья об Borland
