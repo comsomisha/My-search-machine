@@ -84,3 +84,5 @@ http://web.archive.org/web/20071029192758/http://oberon2005.ru/paper/borland.pdf
 Архивная статья об Borland
 http://forum.ru-board.com/topic.cgi?forum=8&topic=42949
 Источники ODBC - важная особенность
+http://www.uhlib.ru/filosofija/nauka_logiki_tom_ii/p1.php
+Мысли Гегеля, мысль об отрицании как моменте связи
