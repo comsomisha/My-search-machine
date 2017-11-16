@@ -90,3 +90,5 @@ https://studme.org/1513061629675/politologiya/mezhdunarodnyy_terrorizm
 Про "чуму" современных дней
 http://info.sibnet.ru/article/498213/
 Про онлайн-кассы
+https://stackoverflow.com/questions/31952727/how-can-i-disable-signature-checking-for-firefox-add-ons
+Помощь c Firefox
