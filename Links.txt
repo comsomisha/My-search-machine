@@ -81,7 +81,7 @@ http://www.wikireality.ru/wiki/P2p
 http://www.sovross.ru/articles/1520/30856
 Про безналичные деньги
 http://web.archive.org/web/20071029192758/http://oberon2005.ru/paper/borland.pdf
-Архивная статья об Borland
+История краха Borland
 http://forum.ru-board.com/topic.cgi?forum=8&topic=42949
 Источники ODBC - важная особенность
 http://www.uhlib.ru/filosofija/nauka_logiki_tom_ii/p1.php
@@ -91,6 +91,6 @@ https://studme.org/1513061629675/politologiya/mezhdunarodnyy_terrorizm
 http://info.sibnet.ru/article/498213/
 Про онлайн-кассы
 https://stackoverflow.com/questions/31952727/how-can-i-disable-signature-checking-for-firefox-add-ons
-Помощь c Firefox
+Помощь c расширениями Firefox
 https://daily.afisha.ru/archive/vozduh/books/zhizn-posle-dinastii-chem-budut-zanimatsya-fondy-traektoriya-i-evolyuciya
-Две замены закрытого фонда Династии
+Две замены для закрытого фонда Династия
