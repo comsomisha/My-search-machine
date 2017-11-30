@@ -48,3 +48,5 @@ https://echo.msk.ru/programs/tv/
 Передача Телехранитель на ТВ
 http://litrossia.ru/
 Газета "Литературная Россия"
+http://ping-admin.ru/
+Проверка доступности сайтов по всему миру
