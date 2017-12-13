@@ -102,3 +102,5 @@ https://www.championat.com/other/article-285605-polnyj-perevod-na-russkij-reshen
 Про дисквалификации российских спортсменов
 https://iz.ru/668984/tatiana-berseneva-marina-iurshina/gossaity-vne-podozrenii
 Госсайты вне подозрений
+https://habrahabr.ru/company/selectel/blog/278167/
+Про HTTP/2
