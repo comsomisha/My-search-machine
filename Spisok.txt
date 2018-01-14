@@ -1,12 +1,15 @@
 https://ru.wikipedia.org/wiki/Категория:Проект:Телевидение:Списки
 (https://ru.wikipedia.org/wiki/Проект:Телевидение/Списки)
 https://ru.wikipedia.org/wiki/Категория:Списки_программ_по_телеканалам
+https://ru.wikipedia.org/wiki/Проект:Литература/Списки
 https://ru.wikipedia.org/wiki/Категория:Исчезли_в_2010-е_годы
 https://ru.wikipedia.org/wiki/2018_год
 Важные ссылки в Википедии
 http://staroetv.su/publ/
 http://staroetv.su/video/
 Старый и новый телеархивы сайта Старый Телевизор
+https://www.livelib.ru/tag/антиутопия
+Список антиутопий
 https://emercoin.mintr.org/nvs
 Домены Emercoin
 https://www.opennic.org
@@ -47,5 +50,3 @@ http://ping-admin.ru/
 Проверка доступности сайтов по всему миру
 http://predb.me/
 Деятельность взломщиков игр
-https://www.livelib.ru/tag/антиутопия
-Список антиутопий
