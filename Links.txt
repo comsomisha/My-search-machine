@@ -118,3 +118,5 @@ http://www.vokrugsveta.ru/quiz/238816/
 Происхождение фамилии Ленина
 http://web.archive.org/web/20120822210407/https://dtf.ru/news/read.php?id=67283
 Закрытие студии 49Games
+https://social.technet.microsoft.com/Forums/ie/ru-RU/5730cbcc-6ba7-4bb5-ae3a-f023d7485ba0/sharepoint-designer-2010-?forum=msoclientru
+SharePoint Designer 2010 не работает без сервера
