@@ -9,8 +9,7 @@ http://staroetv.su/publ/
 http://staroetv.su/video/
 Старый и новый телеархивы сайта Старый Телевизор
 https://www.livelib.ru/tag/антиутопия
-https://www.livelib.ru/tag/утопия
-Списки антиутопий и утопий
+Список антиутопий
 https://emercoin.mintr.org/nvs
 Домены Emercoin
 https://www.opennic.org
@@ -41,6 +40,8 @@ https://gamer-info.com/
 Сайт о компьютерных играх
 https://www.old-games.ru/
 Архив старых компьютерных игр
+http://gameshows.ru/wiki/Заглавная_страница
+Сайт о телеиграх
 https://gorky.media/
 Сайт о литературе
 https://echo.msk.ru/programs/tv/
