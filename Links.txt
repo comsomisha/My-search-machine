@@ -176,8 +176,6 @@ https://www.mirf.ru/news/disney-kupil-fox-chto-eto-menyaet
 Что получил Disney от сделки с Fox
 https://satsis.info/news/10063-videoservis-hulu-stanovitsya-polnostyu-platnym.html
 Hulu становится полностью платным
-https://sputnik.by/society/20180402/1034590010/kak-pomenyayut-zakon-o-smi-blokirovka-bez-suda-i-moderaciya-kommentariev.html
-Запрет анонимных комментариев в Белоруссии
 http://54-fz.ru/kto-dolzhen-primenyat-kkt
 Кому применять онлайн-кассы
 https://hi-tech.mail.ru/news/samsung-qled-2018
@@ -188,3 +186,5 @@ https://www.kaspersky.ru/blog/contactless-payments-security/8608/
 Бесконтактные платежи
 http://makataka.su/life/24720-s-pyshnymi-zhenschinami-luchshe-i-seks-i-sama-zhizn-vot-pochemu.html
 Факт о пышных женщинах
+https://shkolazhizni.ru/law/articles/70011/
+Неиспользуемые диапазоны ДВ, СВ
