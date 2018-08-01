@@ -1,4 +1,4 @@
-http://www.eg.ru/tech/66166 
+https://www.eg.ru/tech/66166 
 Система запланированного устаревания
 https://kprf.ru/activity/elections/150382.html
 Оборотни - коммунисты России
@@ -114,7 +114,7 @@ https://ria.ru/sport/20170511/1494104673.html
 Победа компьютера в шахматах
 https://rg.ru/2016/07/20/andrej-romanchenko-otkliuchenie-analoga-eto-mif-detskaia-strashilka.html
 Переход на цифровое вещание в России
-http://www.eg.ru/showbusiness/421100/
+https://www.eg.ru/showbusiness/421100/
 Сильно похудевшие звезды
 http://www.vokrugsveta.ru/quiz/238816/
 Происхождение фамилии Ленина
@@ -190,3 +190,5 @@ https://shkolazhizni.ru/law/articles/70011/
 Неиспользуемые диапазоны ДВ, СВ
 https://secretmag.ru/trends/tendencies/monsanto.htm
 Bayer купил Monsanto
+https://www.kramola.info/vesti/rusy/genetika-v-sssr-vavilov-protiv-lysenko
+Вавилов против Лысенко
