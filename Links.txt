@@ -10,7 +10,7 @@ http://newsru.co.il/rest/16dec2016/playboy_fr_105.html
 Playboy возобновил французский выпуск
 https://www.kommersant.ru/doc/2490821
 Книжный царь из Эксмо/АСТ
-https://habrahabr.ru/post/318400/
+https://habr.com/post/318400/
 Поиск непопулярных медиафайлов в интернете
 https://ru.wikipedia.org/wiki/Интернет-цензура
 Интересное наблюдение от шведских пиратов
@@ -34,7 +34,7 @@ https://lifehacker.ru/2016/03/28/google-alternatives/
 Альтернативные поисковые системы
 http://stereo.ru/to/393sc-gotape-kassetnoe-delo
 Косвенный факт неполного превосходства японской техники над другой
-https://habrahabr.ru/post/266667/
+https://habr.com/post/266667/
 Подключение к GIT по SSH
 http://www.avto25.ru/news/articles/2017/07/28/35718.html
 Платные дороги России
@@ -102,7 +102,7 @@ https://www.championat.com/other/article-285605-polnyj-perevod-na-russkij-reshen
 Про дисквалификации российских спортсменов
 https://iz.ru/668984/tatiana-berseneva-marina-iurshina/gossaity-vne-podozrenii
 Госсайты вне подозрений
-https://habrahabr.ru/company/selectel/blog/278167/
+https://habr.com/company/selectel/blog/278167/
 Про HTTP/2
 https://www.vedomosti.ru/technology/articles/2017/12/11/744878-disney
 Про крупнейшие студии Голливуда
@@ -148,6 +148,8 @@ http://www.cableman.ru/node/14675
 Компания Viasat провела ребрендинг онлайн-сервиса Viaplay
 https://gorky.media/context/postpravda-i-pornografiya/
 Философия цензуры
+https://vc.ru/26568-binbank-opinion
+Мошенничество Бинбанка и Открытия
 https://www.mywot.com/wiki/Поддельные_файлообменники
 Поддельные файлообменники
 https://www.gazeta.ru/science/2016/10/31_a_10294289.shtml
@@ -194,3 +196,5 @@ https://www.kramola.info/vesti/rusy/genetika-v-sssr-vavilov-protiv-lysenko
 Вавилов против Лысенко
 http://www.cnews.ru/articles/2016-07-21_rossijskie_mikroprotsessory_nachalo_puti
 Российские микропроцессоры
+http://www.motiv-telecom.com/2017/11/blog-post.html
+Независимые операторы фиксированной связи(от Ростелекома, МГТС, Билайна)
