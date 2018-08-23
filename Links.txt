@@ -204,3 +204,5 @@ http://pro-books.ru/news/3/14890
 О продаже книг с матом
 http://blog.selfpub.ru/age-rate
 Маркировка книг
+https://habr.com/company/reactos/blog/319110/
+Совместимость под Windows
