@@ -218,3 +218,5 @@ https://shazoo.ru/2018/08/15/68993/gog-striming-igr-eto-eshe-odin-sloj-drm
 Про стриминг игр
 https://interface31.ru/tech_it/2015/08/ispolzuem-powershell-dlya-avtomatizacii-ustanovki-obnovleniy.html
 Использование PowerShell
+https://www.business-gazeta.ru/article/96516
+Налоги в Германии
