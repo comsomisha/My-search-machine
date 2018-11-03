@@ -12,8 +12,6 @@ http://staroetv.su/video/
 Старый и новый телеархивы сайта Старый Телевизор
 https://www.livelib.ru/tag/антиутопия
 Список антиутопий
-https://emercoin.mintr.org/nvs
-Домены Emercoin
 https://www.opennic.org
 OpenNIC, альтернативный DNS
 http://osgameclones.com
