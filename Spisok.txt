@@ -6,6 +6,7 @@ https://en.wikipedia.org/wiki/List_of_basketball_video_games
 https://en.wikipedia.org/wiki/Category:Video_game_lists_by_genre
 https://ru.wikipedia.org/wiki/Утерянный_фильм
 https://en.wikipedia.org/wiki/Lost_work (потерянные книги)
+https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers
 https://ru.wikipedia.org/wiki/Категория:Исчезли_в_2010-е_годы
 https://ru.wikipedia.org/wiki/2019_год
 Важные ссылки в Википедии
@@ -73,6 +74,7 @@ https://searchcode.com/
 https://upages.io
 Вновь обновляемая блогплатформа
 http://web.archive.org/web/20170506035422/http://arhiv.inpravo.ru:80/texts3/document3053/index.htm
+---
 Уголовный кодекс РСФСР
 http://fenixclub.com/index.php?showtopic=119228
 Список зарубежных фильмов в прокате СССР
