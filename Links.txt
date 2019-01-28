@@ -274,3 +274,5 @@ https://www.iguides.ru/main/other/pochemu_perekhod_kompyuterov_na_usb_c_dostatoc
 Размышление о USB-C
 http://wiki.kinokadr.ru/wiki/Мэйджор
 Кто такие мэйджоры
+https://www.securitylab.ru/blog/company/falcongaze/333687.php
+Про интернет вещей
