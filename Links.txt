@@ -276,3 +276,5 @@ http://wiki.kinokadr.ru/wiki/Мэйджор
 Кто такие мэйджоры
 https://www.securitylab.ru/blog/company/falcongaze/333687.php
 Про интернет вещей
+http://fb.ru/article/177243/chto-takoe-singulyarnost-tochka-singulyarnosti-singulyarnost-chernoy-dyiryi
+Теория сингулярности
