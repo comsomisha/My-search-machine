@@ -64,8 +64,8 @@ https://gomel.today/rus/article/economics-232/
 Беспошлинные лимиты в странах (на момент 2016 года)
 http://4tux.ru/blog/linux_analogi_windows_programm
 Linux-аналоги Windows-программ
-https://www.itweek.ru/business/blog/foss/9301.php?commentId=40724
-Отказ от 32-разрядных сборок (потом - Ubuntu)
+http://www.opennet.ru/opennews/art.shtml?num=49827
+Оставшиеся 32-разрядные сборки
 http://glagolurfo.com/newsitems/2015/3/2/zummer-voshel-v-10-magistralnyh-provajderov-rf/
 Магистральные провайдеры России
 https://www.kommersant.ru/doc/1827909
