@@ -2,6 +2,7 @@ https://ru.wikipedia.org/wiki/Категория:Проект:Телевиден
 (https://ru.wikipedia.org/wiki/Проект:Телевидение/Списки)
 https://ru.wikipedia.org/wiki/Категория:Списки_программ_по_телеканалам
 https://ru.wikipedia.org/wiki/Проект:Литература/Списки
+https://en.wikipedia.org/wiki/Denuvo
 https://en.wikipedia.org/wiki/List_of_basketball_video_games
 https://en.wikipedia.org/wiki/Category:Video_game_lists_by_genre
 https://ru.wikipedia.org/wiki/Утерянный_фильм
@@ -37,6 +38,8 @@ http://lumpics.ru/
 Помощь по компьютерным вопросам
 https://alternativeto.net/
 Поиск альтернатив для ПО
+http://predb.me/
+Деятельность взломщиков игр
 https://gamer-info.com/
 Сайт о компьютерных играх
 https://www.old-games.ru/
@@ -65,6 +68,8 @@ https://www.infox.ru
 Критические статьи о нашей действительности
 http://www.senica.ru/
 Взгляд на Югославию
+http://joyreactor.cc/
+Сайт смешных картинок
 https://searchcode.com/
 Поиск по хостингам кода
 https://upages.io
