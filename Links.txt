@@ -318,3 +318,5 @@ http://web.archive.org/web/20180425144508/http://scelementary.com/2015/04/25/ope
 OpenACC support in GCC
 https://habr.com/ru/company/ua-hosting/blog/473928/
 Вымирание компьютерных файлов
+https://ru.ihodl.com/technologies/2018-12-10/kak-kitaj-zahvatila-maniya-strima/
+Мания стрима в Китае
