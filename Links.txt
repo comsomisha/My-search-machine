@@ -314,9 +314,7 @@ https://tjournal.ru/stories/73826-ohotniki-za-sim-kartami-kak-ustroen-biznes-po-
 Поддержка SIM-карт
 http://web.archive.org/web/20170610185833/http://ikd.ru/node/4795
 Статья о копилефте
-http://web.archive.org/web/20180425144508/http://scelementary.com/2015/04/25/openacc-in-gcc.html
-OpenACC support in GCC
-https://habr.com/ru/company/ua-hosting/blog/473928/
-Вымирание компьютерных файлов
 https://ru.ihodl.com/technologies/2018-12-10/kak-kitaj-zahvatila-maniya-strima/
 Мания стрима в Китае
+https://habr.com/ru/company/ua-hosting/blog/473928/
+Вымирание компьютерных файлов
