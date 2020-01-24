@@ -78,5 +78,3 @@ http://web.archive.org/web/20180123202309/http://www.lgz.ru/blog/Potok-Soznaniya
 Бывший блог Ильи Пожидаева
 http://web.archive.org/web/20120120072832/http://www.mk.ru/blog/30-blog-mihaila-zadornova.html
 Бывший блог Михаила Задорнова
-http://web.archive.org/web/20180425144508/http://scelementary.com/2015/04/25/openacc-in-gcc.html
-OpenACC: поддержка в GCC

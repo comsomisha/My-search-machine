@@ -318,8 +318,6 @@ https://ru.ihodl.com/technologies/2018-12-10/kak-kitaj-zahvatila-maniya-strima/
 Мания стрима в Китае
 https://habr.com/ru/company/ua-hosting/blog/473928/
 Вымирание компьютерных файлов
-https://rsdn.org/forum/flame/6911516.all
-Вымирание форумов
 https://www.colta.ru/articles/specials/5489-na-chto-zhivut-chastnye-teatry-v-rossii
 Положение частных театров в России
 https://habr.com/ru/company/kaspersky/blog/474814/
@@ -328,3 +326,5 @@ https://habr.com/ru/post/474476/
 Хранение информации на носителях
 https://litrossia.ru/item/zanimatelnaya-alhimiya/
 Мнение об писателе Захаре Прилепине
+https://rsdn.org/forum/flame/6190353.all
+Вымирание форумов
