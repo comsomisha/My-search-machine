@@ -25,14 +25,10 @@ http://www.mmnt.ru
 FTP-поисковик
 https://duckduckgo.com
 Альтернатива Яндексу
-https://www.litres.ru/kollekcii-knig/besplatnie-knigi
-Бесплатные книги от Litres
 http://homlib.com/ru
 От разработчиков приложения "Домашняя библиотека"
 http://www.rusf.ru/
 Библиотека русской фантастики
-http://web.archive.org/
-Один из самых известных интернет-архивов
 http://lumpics.ru/
 Помощь по компьютерным вопросам
 https://alternativeto.net/
@@ -51,6 +47,8 @@ https://echo.msk.ru/programs/tv/
 Передача Телехранитель на ТВ
 http://litrossia.ru/
 Газета "Литературная Россия"
+http://www.chaskor.ru/
+Издание с лицензией Creative Commons
 http://ping-admin.ru/
 Проверка доступности сайтов по всему миру
 http://rabkor.ru/
@@ -69,6 +67,13 @@ http://www.senica.ru/
 Взгляд на Югославию
 http://joyreactor.cc/
 Сайт смешных картинок
+http://web.archive.org/
+Один из самых известных интернет-архивов
+https://stackexchange.com/
+https://stackoverflow.com/
+https://superuser.com/
+https://askubuntu.com/
+Сеть сайтов вопросов и овтетов
 ---
 http://web.archive.org/web/20170506035422/http://arhiv.inpravo.ru:80/texts3/document3053/index.htm
 Уголовный кодекс РСФСР
