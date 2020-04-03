@@ -344,3 +344,7 @@ https://www.itweek.ru/foss/blog/foss/9301.php
 Отказ от 32-разрядных сборок (потом - Ubuntu)
 https://stackoverflow.com/questions/48981823/is-there-any-option-to-switch-between-c99-and-c11-c-standards-in-visual-studio
 Поддержка стандартов языка C в Visual Studio
+https://4pda.ru/2014/11/25/187206
+Умные часы бодаются за свой дизайн
+https://tjournal.ru/news/133570-fizik-iz-ssha-sdelal-repliku-lamborghini-iz-napechatannyh-na-3d-printere-detaley-za-eto-emu-odolzhili-realnyy-superkar
+Автомобиль на 3D-принтере
