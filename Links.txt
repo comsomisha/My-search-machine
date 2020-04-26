@@ -350,3 +350,5 @@ https://tjournal.ru/news/133570-fizik-iz-ssha-sdelal-repliku-lamborghini-iz-nape
 Автомобиль на 3D-принтере
 https://tjournal.ru/internet/144261-virtualnaya-vebkam-model-melodi-obhodit-realnyh-po-populyarnosti-te-nedovolny-3d-konkurentkoy
 Виртуальная модель в Японии
+https://habr.com/ru/company/itsumma/blog/496128/
+Проблема поиска в интернете
