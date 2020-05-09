@@ -350,6 +350,8 @@ https://tjournal.ru/news/133570-fizik-iz-ssha-sdelal-repliku-lamborghini-iz-nape
 Автомобиль на 3D-принтере
 https://tjournal.ru/internet/144261-virtualnaya-vebkam-model-melodi-obhodit-realnyh-po-populyarnosti-te-nedovolny-3d-konkurentkoy
 Виртуальная модель в Японии
+https://habr.com/ru/post/485918/
+Преграда для независимых браузеров
 https://habr.com/ru/company/itsumma/blog/496128/
 Проблема поиска в интернете
 http://web.archive.org/web/20180102014522/https://habrahabr.ru/post/164149/
@@ -358,3 +360,5 @@ https://www.championat.com/football/article-4026769-hajp-i-dofaminovaja-zavisimo
 Проблема хайпа в СМИ
 http://www.chaskor.ru/article/toksichnaya_filantropiya_45726
 Токсичная филантропия
+https://syg.ma/@daria-sokologhorskaya/funktsionalnaia-nieghramotnost
+Проблема функциональной неграмотности
