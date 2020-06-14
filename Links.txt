@@ -363,4 +363,8 @@ http://www.chaskor.ru/article/toksichnaya_filantropiya_45726
 https://syg.ma/@daria-sokologhorskaya/funktsionalnaia-nieghramotnost
 Проблема функциональной неграмотности
 http://cribcab.blogspot.com/2016/08/github.html
-Полезный совет для Git
+Полезный совет для GIT
+https://dtf.ru/read/40070-sayt-s-arhivom-12-tysyach-zarubezhnyh-zhurnalov-za-1890-1960-gody
+Архив зарубежных журналов
+https://korysno.pro/noam-homskij-10-sposobov-upravleniya-massami/
+Способы управления массами
