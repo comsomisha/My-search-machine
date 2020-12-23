@@ -392,3 +392,5 @@ https://tjournal.ru/stories/117468-voyna-za-prava-kak-izdatelstva-i-konditerskie
 Юридический казус на тему памятника
 https://tjournal.ru/internet/241162-skalpery-ukravshie-rozhdestvo-kak-perekupshchiki-pri-pomoshchi-botov-lishayut-lyudey-novyh-ps5-i-drugih-vostrebovannyh-tovarov
 Про билетных и товарных спекулянтов
+https://habr.com/ru/post/531872/
+Анатомия GNU/Linux
