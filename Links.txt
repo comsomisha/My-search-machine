@@ -10,7 +10,7 @@ http://newsru.co.il/rest/16dec2016/playboy_fr_105.html
 Playboy возобновил французский выпуск
 https://www.kommersant.ru/doc/2490821
 Книжный царь из Эксмо/АСТ
-https://habr.com/post/318400/
+https://habr.com/ru/post/318400/
 Поиск непопулярных медиафайлов в интернете
 https://ru.wikipedia.org/wiki/Интернет-цензура
 Интересное наблюдение от шведских пиратов
@@ -34,7 +34,7 @@ https://lifehacker.ru/2016/03/28/google-alternatives/
 Альтернативные поисковые системы
 http://stereo.ru/to/393sc-gotape-kassetnoe-delo
 Косвенный факт неполного превосходства японской техники над другой
-https://habr.com/post/266667/
+https://habr.com/ru/post/266667/
 Подключение к GIT по SSH
 http://www.avto25.ru/news/articles/2017/07/28/35718.html
 Платные дороги России
@@ -44,7 +44,7 @@ https://git-scm.com/book/ru/v1/Основы-Git-Работа-с-удалённы
 Полезная информация о GIT
 https://www.vedomosti.ru/business/articles/2010/03/01/razorilas-krupnaya-regionalnaya-roznichnaya-set
 Закрытие сети Провиант
-http://www.ixbt.com/soft/ipv6.shtml
+https://www.ixbt.com/soft/ipv6.shtml
 Про настройку IPv6
 https://www.sports.ru/tribuna/blogs/zhaglagdonks/1139497.html
 Спортивные медиа на Sports.ru (Список 1)
@@ -168,7 +168,7 @@ https://tjournal.ru/51754-break-the-paywall
 Бесплатное чтение платных статей
 https://cont.ws/@mao/738995
 Ограничения в Северной Корее
-https://habr.com/post/396169/
+https://habr.com/ru/post/396169/
 Skype отказался от P2P
 https://www.kommersant.ru/doc/1576863
 Скандал с Фурсенко
@@ -202,7 +202,7 @@ http://pro-books.ru/news/3/14890
 О продаже книг с матом
 http://blog.selfpub.ru/age-rate
 Маркировка книг
-https://habr.com/company/reactos/blog/319110/
+https://habr.com/ru/company/reactos/blog/319110/
 Совместимость под Windows
 https://www.sports.ru/tribuna/blogs/bluewhitenavy/2081546.html
 Про коммерциализацию футбола
@@ -344,7 +344,7 @@ https://www.itweek.ru/foss/blog/foss/9301.php
 Отказ от 32-разрядных сборок (потом - Ubuntu)
 https://stackoverflow.com/questions/48981823/is-there-any-option-to-switch-between-c99-and-c11-c-standards-in-visual-studio
 Поддержка стандартов языка C в Visual Studio
-https://4pda.ru/2014/11/25/187206
+https://4pda.to/2014/11/25/187206
 Умные часы бодаются за свой дизайн
 https://tjournal.ru/news/133570-fizik-iz-ssha-sdelal-repliku-lamborghini-iz-napechatannyh-na-3d-printere-detaley-za-eto-emu-odolzhili-realnyy-superkar
 Автомобиль на 3D-принтере
