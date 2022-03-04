@@ -420,3 +420,5 @@ https://gol.ru/materials/16583-france-football-crisis
 Кризис журнала France Football
 https://dtf.ru/hard/818179-s-avgusta-windows-10-nachnet-blokirovat-potencialno-nezhelatelnoe-po-po-umolchaniyu
 Особенность Windows 10
+https://habr.com/ru/post/651849/
+Ухудшение поиска Google
