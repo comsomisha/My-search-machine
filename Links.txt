@@ -280,7 +280,7 @@ http://fb.ru/article/177243/chto-takoe-singulyarnost-tochka-singulyarnosti-singu
 Теория сингулярности
 https://www.maximonline.ru/longreads/get-smart/_article/crisis-of-liberalism
 Кризис либерализма
-http://www.chaskor.ru/article/novye_biblioteki_-_novye_chitateli_44295
+https://web.archive.org/web/20220218025512/http://www.chaskor.ru/article/novye_biblioteki_-_novye_chitateli_44295
 Проблемы библиотек
 https://cont.ws/@handusenko/296268
 Правда об инквизиции
@@ -300,7 +300,7 @@ http://sport.business-gazeta.ru/article/179808
 Спортивные издания детства
 https://www.sports.ru/tribuna/blogs/puncher/2216091.html
 Конец модели pay-per-view
-http://web.archive.org/web/20140716152654/http://therunet.com:80/articles/2657-ot-xerox-do-aereo
+https://runet.news/articles/2657-ot-xerox-do-aereo
 Как суды решали будущее технологий
 https://www.gazeta.ru/business/2016/01/25/8040329.shtml
 Уменьшение среднего класса
@@ -358,7 +358,7 @@ http://web.archive.org/web/20180102014522/https://habrahabr.ru/post/164149/
 Социальная сеть Pandora
 https://www.championat.com/football/article-4026769-hajp-i-dofaminovaja-zavisimost---v-chjom-opasnost.html
 Проблема хайпа в СМИ
-http://www.chaskor.ru/article/toksichnaya_filantropiya_45726
+https://web.archive.org/web/20220218023836/http://www.chaskor.ru/article/toksichnaya_filantropiya_45726
 Токсичная филантропия
 https://syg.ma/@daria-sokologhorskaya/funktsionalnaia-nieghramotnost
 Проблема функциональной неграмотности
