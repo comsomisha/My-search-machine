@@ -36,8 +36,6 @@ https://alternativeto.net/
 Поиск альтернатив для ПО
 https://predb.me/
 Деятельность взломщиков игр
-https://gamer-info.com/
-Сайт о компьютерных играх
 https://www.old-games.ru/
 Архив старых компьютерных игр
 http://gameshows.ru/wiki/Заглавная_страница
@@ -88,8 +86,10 @@ https://syg.ma/@kostya-koryagin/piringhovoie-proizvodstvo-i-biednost-sietiei
 https://syg.ma/@sygma/vienchurnyi-kommunizm
 Телекоммунистический манифест
 ---
-Закрыто:
+Закрыто/архив:
 http://www.chaskor.ru/
 Издание с лицензией Creative Commons
 https://echo.msk.ru/programs/tv/
 Передача Телехранитель на ТВ
+https://gamer-info.com/
+Сайт о компьютерных играх
